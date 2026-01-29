@@ -1,4 +1,4 @@
-# **<ins> Assignment No.</ins>**
+# **<ins> Assignment No: 0.</ins>**
 Virtual Machine is a software based emulation of a physical computer that runs its own operating system and applications.
 
 * Virtual machines run on hypervisors that allocate physical resources for example CPU, memory and storage to each guest OS.
@@ -64,6 +64,7 @@ This is how it looked like after:
 
 ## Step 5: Connected to the terminal
 Now that all the necessary steps has been taken into consideration,I can now run my Virtual Machine in my terminal. With the lecture's guidance, I also created a shortcut key so that i can access the Virtual Machine in the terminal smoothly when needed.
+
 
 
 
